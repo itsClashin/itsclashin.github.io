@@ -1,0 +1,57 @@
+*/ === Typography === */
+
+body {
+    font-family: ‘Helvetica’, ‘Arial’, sans-serif;
+    font-size: 14pt;
+    line-height: 18pt;
+    background-color: black;
+    }
+
+nav a {
+    color: #cdcdcd;
+     text-decoration: none;
+    }
+
+h1{
+    font-family: 'Teko', sans-serif;
+    font-size: 72px;
+}
+
+
+.floatimage{
+    float: left;
+    padding: 20px;
+}
+
+h2{
+    font-family: ‘Helvetica’, ‘Arial’, sans-serif;
+    font-size: 24pt;
+    line-height: 18pt;
+    color: black;
+}
+
+footer{
+    font-size: 10px;
+}
+
+*/ === Backgrounds === */
+
+header{
+    background-color:black;
+}
+
+main{
+    color: white;
+}
+
+body{
+    color: #cdcdcd;
+}
+
+footer{
+    color: black;
+}
+
+#splash{
+    background-image: url(heading.jpg);
+}
